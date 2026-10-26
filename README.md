@@ -38,7 +38,7 @@ These are interface mockups, not proof of running firmware.
 |---|---|
 | ![Home menu](assets/ui_home_menu.png) | ![Messages menu](assets/ui_messages_menu.png) |
 
-| Text entry | Loading screen |
+| Text entry | Game screen |
 |---|---|
 | ![Text entry](assets/ui_text_entry.png) | ![Game screen](assets/ui_loading_screen.png) |
 
