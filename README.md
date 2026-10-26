@@ -2,6 +2,12 @@
 
 **Azure Dragon Tech · Independent hardware project**
 
+## Support the Project
+
+If you would like to support RetroShell 3210 and help fund the first hardware prototype, consider supporting the project on Ko-fi.
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jerydgreen)
+
 RetroShell 3210 is a concept for a modern replacement motherboard intended for the original Nokia 3210 (1999) enclosure. The goal is to preserve the familiar handset form factor while exploring updated electronics and a retro-style keypad interface.
 
 > **Status: concept/design presentation.** These images are PCB renders, schematic overview and interface mockups. They do not demonstrate a manufactured or tested board. Features below are goals, not verified capabilities.
