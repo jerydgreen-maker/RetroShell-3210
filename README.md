@@ -40,13 +40,13 @@ These are interface mockups, not proof of running firmware.
 
 | Text entry | Loading screen |
 |---|---|
-| ![Text entry](assets/ui_text_entry.png) | ![Loading screen](assets/ui_loading_screen.png) |
+| ![Text entry](assets/ui_text_entry.png) | ![Game screen](assets/ui_loading_screen.png) |
 
 | Theme options | Theme options |
 |---|---|
 | ![Theme options](assets/ui_theme_green_blue_red.png) | ![Theme options](assets/ui_theme_blue_red_white.png) |
 
-| Custom theme | Neutral theme |
+| Theme options | Custom theme |
 |---|---|
 | ![Custom theme](assets/ui_theme_custom.png) | ![Neutral theme](assets/ui_theme_neutral.png) |
 
